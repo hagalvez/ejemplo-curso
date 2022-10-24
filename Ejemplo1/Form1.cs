@@ -15,6 +15,8 @@ namespace Ejemplo1
         public Form1()
         {
             InitializeComponent();
+
+            // Agrego un comentario---
         }
     }
 }
